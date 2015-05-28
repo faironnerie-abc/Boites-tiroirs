@@ -1,2 +1,3 @@
 # Boites-tiroirs
-Fichiers InkScape pour découpe laser de petits tiroirs
+Fichiers InkScape pour découpe laser de petits tiroirs.
+
